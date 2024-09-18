@@ -13,4 +13,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=L4pisLazuli&theme=dark&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 ## SNAKE:
-[![snake](https://raw.githubusercontent.com/L4pisLazuli/L4pisLazuli/output/snake.svg)](snakeanimation)
+[![snake](https://raw.githubusercontent.com/L4pisLazuli/L4pisLazuli/output/snake.svg)]([snakeanimation](https://github.com/maurodesouza/profile-readme-generator))
