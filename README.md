@@ -1,13 +1,16 @@
-<br clear="both">
+## 📘 STATUS 📘 :
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L4pisLazuli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=L4pisLazuli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=L4pisLazuli&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L4pisLazuli&show_icons=true&theme=radical
+)](https://github.com/anuraghazra/github-readme-stats)
 
-###
 
-<img src="https://raw.githubusercontent.com/L4pisLazuli/L4pisLazuli/output/snake.svg" alt="Snake animation" />
+## 🏆 Trophy 🏆 :
 
-###
+[![trophy](https://github-profile-trophy.vercel.app/?username=L4pisLazuli)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📘 STATICS 📘 :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=L4pisLazuli&theme=dark&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+
+## SNAKE:
+[![snake](https://raw.githubusercontent.com/L4pisLazuli/L4pisLazuli/output/snake.svg)](snakeanimation)
