@@ -3,7 +3,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L4pisLazuli&show_icons=true&theme=radical
 )](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## 🏆 Trophy 🏆 :
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=L4pisLazuli)](https://github.com/ryo-ma/github-profile-trophy)
