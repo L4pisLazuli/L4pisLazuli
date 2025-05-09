@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 Programming Stats (via WakaTime)
+## 🧑‍💻 Programming Stats (SINCE NOV 1 2024)
 <p align="center">
   <h2>activity</h2>
   <img src="https://wakatime.com/share/@Lapis/871b099c-e00e-424b-bf30-e7f6e7875846.svg" alt="coding data 1" />
