@@ -29,9 +29,6 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L4pisLazuli&show_icons=true&theme=gruvbox" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4pisLazuli&layout=compact&theme=gruvbox" height="150" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=L4pisLazuli&show_icons=true&theme=gruvbox" height="150" />
 
 ---
