@@ -13,7 +13,7 @@
   <h2>activity</h2>
   <img src="https://wakatime.com/share/@Lapis/871b099c-e00e-424b-bf30-e7f6e7875846.svg" alt="coding data 1" />
   <h2>language</h2>
-  <img src="https://wakatime.com/share/@Lapis/4d756227-3993-41bb-8536-836fba5053e6.svg" alt="coding data 2" width="51%" />
+  <img src="https://wakatime.com/share/@Lapis/4d756227-3993-41bb-8536-836fba5053e6.svg" alt="coding data 2" width="66.666%" />
 </p>
 
 ---
