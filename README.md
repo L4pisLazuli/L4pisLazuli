@@ -1,27 +1,34 @@
-<h1 align="center">Hi there 👋, I'm L4pisLazuli</h1>
+# Hello 👋, I'm L4pisLazuli
 
+## Skills
 
-## 📈 GitHub Stats
-<p align="center">
-  <a href="https://github.com/L4pisLazuli">
-    <img src="https://github-profile-trophy.vercel.app/?username=L4pisLazuli&theme=gruvbox&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=10&margin-h=15" alt="trophy" />
-  </a>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=L4pisLazuli&show_icons=true&theme=gruvbox" height="150" alt="GitHub Stats" />
+## GitHub Stats
 
----
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=L4pisLazuli&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
 
-## 🔧 使用技術
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4pisLazuli&layout=compact&theme=null" alt="En Çok Kullanılan Diller" /> -->
 
--   **言語**: Python, Java
--   **Webフレームワーク**: Django
--   **データベース**: MySQL, PostgreSQL
--   **ツール & バージョン管理**: Git, PyCharm, cursor, vscode
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=L4pisLazuli&theme=null" alt="GitHub Streak" />
 
----
+## GitHub Trophies
 
-## 🏅 資格
+<img src="https://github-profile-trophy.vercel.app/?username=L4pisLazuli" alt="trophy" />
 
--   **基本情報技術者試験 (FE)**
--   **応用情報技術者試験 (AP)**
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=L4pisLazuli&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph" />
+
+
+## Certifications
+
+- 基本情報技術者試験 (2024/03)
+- 応用情報技術者試験 (2024/10)
